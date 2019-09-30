@@ -8,6 +8,9 @@ const SecondPage = () => (
   <Layout>
     <SEO title="Page two" />
     <h1>Habibi tryk på side 3</h1>
+
+    
+
     <p>Ikk spørg hvorfor, bare gør det</p>
     <Link to="/">Gå tilbage din na</Link>
   </Layout>
